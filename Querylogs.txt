@@ -1,0 +1,11 @@
+Query logs:-
+
+1) Does all the contact will be displayed in a single page or there will be navigation page.
+
+2) What will be the length of the email.
+
+3) For jsp will we use spring form tag library.
+
+4)For delete pop up what technology will be used.
+
+5) What will be the length of phone no.
